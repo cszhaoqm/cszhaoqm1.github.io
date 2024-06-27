@@ -1,12 +1,8 @@
-code.cszhaoqm.cn
-
-cszhaoqm.github.io
-
-gitee.com/cszhaoqm
-
-github.com/cszhaoqm
-
-gitcode.com/cszhaoqm
+https://code.cszhaoqm.cn
+https://cszhaoqm.github.io
+https://gitee.com/cszhaoqm
+https://github.com/cszhaoqm
+https://gitcode.com/cszhaoqm
 
 
 this is the first page.
