@@ -1,4 +1,4 @@
-[链接1](https://code.cszhaoqm.cn)
+[链接1 code ](https://code.cszhaoqm.cn)
 
 https://cszhaoqm.github.io
 
