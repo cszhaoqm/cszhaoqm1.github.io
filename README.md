@@ -1,12 +1,8 @@
-[链接1 code ](https://code.cszhaoqm.cn)
-
-https://cszhaoqm.github.io
-
-https://gitee.com/cszhaoqm
-
-https://github.com/cszhaoqm
-
-https://gitcode.com/cszhaoqm
+[code.cszhaoqm.cn ](https://code.cszhaoqm.cn)
+[cszhaoqm.github.io](https://cszhaoqm.github.io)
+[gitee.com/cszhaoqm](https://gitee.com/cszhaoqm)
+[github.com/cszhaoqm](https://github.com/cszhaoqm)
+[gitcode.com/cszhaoqm](https://gitcode.com/cszhaoqm)
 
 
 
